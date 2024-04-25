@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pcolasante&label=Profile%20views&color=0e75b6&style=flat" alt="pcolasante" /> </p>
 
-- I'm currently working on **Tic-Tac-Toe game**
+- 🖥 I'm currently working on **Tic-Tac-Toe game using Java**
 
 - 🌱 I’m currently learning **JavaScript, python, among others.**
+
+- 🗒 Most familiar with **Java, HTML5, CSS3**
 
 - 📫 How to reach me **paulina.colasante@gmail.com**
 
