@@ -5,7 +5,7 @@
 
 - 🖥 I'm currently working on **Tic-Tac-Toe game using Java**
 
-- 🌱 I’m currently learning **JavaScript, python, among others.**
+- 🌱 I’m currently learning **JavaScript, python, AWS, among others.**
 
 - 🗒 Most familiar with **Java, HTML5, CSS3**
 
