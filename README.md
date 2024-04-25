@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paulina</h1>
-<h3 align="center">I'm a student working on earning my B.A.S. in Computing Technology and Software Development, as well as Cloud Computing. 💻</h3>
+<h3 align="left">I'm a student working on earning my B.A.S. in Computing Technology and Software Development, as well as Cloud Computing 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pcolasante&label=Profile%20views&color=0e75b6&style=flat" alt="pcolasante" /> </p>
 
