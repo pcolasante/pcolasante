@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pcolasante&label=Profile%20views&color=0e75b6&style=flat" alt="pcolasante" /> </p>
 
-- 🖥 I'm currently working on **Tic-Tac-Toe game using Java**
+- 🖥 I'm currently working on **Flashcard App using Javascript**
 
 - 🌱 I’m currently learning **JavaScript, python, AWS, among others.**
 
